@@ -148,19 +148,3 @@ Ideal for showcasing **Power BI proficiency**, **data storytelling**, and **DAX 
 ---
 
 > ⭐ *If you like this project, give it a star on GitHub — it helps showcase my Power BI work to more people!*
-
-```
-
----
-
-✅ **Tip:**  
-Create an `/assets` folder and include:
-- `banner.png`
-- `sales-overview.png`
-- `profit-by-region.png`
-- `product-performance.png`
-- `customer-insights.png`
-- `trend-analysis.png`
-
-Would you like me to design a **banner image idea (with colors, text, and layout)** you can create in Canva or Figma for the top section (`assets/banner.png`)?
-```
